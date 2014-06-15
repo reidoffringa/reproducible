@@ -3,9 +3,9 @@ Reid's Friendly Markdown File for Knitr and General Edification
 
 **Instructions!**
 
-*Please set working directory to the folder where activity.csv was downloaded. 
++Please set working directory to the folder where activity.csv was downloaded. 
 
-*Mine looks like this, but please edit this code, so it activity.csv is present in your working directory:
++Mine looks like this, but please edit this code, so it activity.csv is present in your working directory:
 
 getwd()
 setwd('./R/Coursera/reproducible/')
