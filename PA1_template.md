@@ -1,5 +1,8 @@
-Reid's Friendly Markdown File for Knitr and General Edification
+Reid's Friendly Markdown File JHU, Coursera
+and General Edification
+
 ========================================================
+**Yes, I recognize that you might be viewing an HTML file right now.**
 
 **Instructions!**
 
